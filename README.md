@@ -1,7 +1,5 @@
 ### I'm Nitesh Kumar aka _A-phenomenal1_
 
-![Nitesh_banner (1)](https://user-images.githubusercontent.com/58008904/109398672-3f435580-7964-11eb-8f58-66339ccf361b.png)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
