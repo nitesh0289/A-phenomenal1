@@ -1,11 +1,22 @@
 ### I'm Nitesh Kumar aka _A-phenomenal1_
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+I am a Software developer. 
 
-Hello, My name is Nitesh Kumar and I'm a full stack developer in MERN. I currently work as a web development intern for a growing start-up, Learnbird Innovative Solutions. I'm a learning enthusiast and love to work in a team environment.
+I am interested in System Design | Microservices | C++ | Node.js | React.js | MongoDB | MySQL | AWS | CI/CD | NATS Streaming Server | NPM | Jest/Mocha/Chai | Python.
+
+**Strengths:**
+  * Resourceful 
+  * Collaborative Worker
+  * Commercially aware.
+  
+**Work Profile:**
+  * Software Developer
+  * Full Stack Developer
+  * Backend Engineer
+  
+**Language:**
+  * English
+  * Hindi
 
 **Skills:**  
   * React JS
