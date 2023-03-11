@@ -24,12 +24,10 @@ I am interested in System Design | Microservices | C++ | Node.js | React.js | Mo
   * Node JS
   * MongoDB
   * React Native
-  * C++
-
-- 🔭 I’m currently working on **E-Commerce Website** with MERN 
+  * C++ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/A-phenomenal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niteshkumar89/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a_phenomenal1/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/A-phenomenal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niteshkumar89/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-phenomenal1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
